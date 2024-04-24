@@ -90,3 +90,4 @@ fabric.properties
 !.idea/runConfigurations
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij+all
+/src/data/2024-04-24/
